@@ -9,6 +9,11 @@ This app is a very simple app that displays 2 screens; one screen displaying a l
 - Gives you a list of Desserts
 - Gives instructions and a ingredients list for such dessert
 
+# Version Compatability
+
+XCode 14.0+
+iOS 16+
+
 # Installation
 
 Copy the project in XCode using the following URL: https://github.com/donalddang/Recipes-App
