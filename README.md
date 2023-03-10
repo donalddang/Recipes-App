@@ -11,8 +11,8 @@ This app is a very simple app that displays 2 screens; one screen displaying a l
 
 # Version Compatability
 
-XCode 14.0+
-iOS 16+
+- XCode 14.0+
+- iOS 16+
 
 # Installation
 
